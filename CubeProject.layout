@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\HeuristicCreator.h" open="1" top="0" tabpos="3">
+		<Cursor position="730" topLine="0" />
+	</File>
+	<File name="include\RubiksCube.h" open="1" top="0" tabpos="1">
+		<Cursor position="522" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="266" topLine="0" />
+	</File>
+	<File name="src\HeuristicCreator.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="1667" topLine="48" />
+	</File>
+	<File name="src\RubiksCube.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="5758" topLine="182" />
+	</File>
+</CodeBlocks_layout_file>

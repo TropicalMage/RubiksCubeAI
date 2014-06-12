@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1351250313 source:c:\home\work station\projects\cubeproject\src\heuristiccreator.cpp
+	"HeuristicCreator.h"
+
+1351266773 c:\home\work station\projects\cubeproject\include\heuristiccreator.h
+
+1351273847 source:c:\home\work station\projects\cubeproject\src\rubikscube.cpp
+	"RubiksCube.h"
+	<vector>
+
+1351273973 c:\home\work station\projects\cubeproject\include\rubikscube.h
+	<vector>
+	<string>
+
+1351274102 source:c:\home\work station\projects\cubeproject\main.cpp
+	<iostream>
+	"RubiksCube.h"
+
+1351299440 source:c:\home\work_station\projects\cubeproject\src\heuristiccreator.cpp
+	"HeuristicCreator.h"
+	<iostream>
+
+1351297872 c:\home\work_station\projects\cubeproject\include\heuristiccreator.h
+	"RubiksCube.h"
+	<queue>
+	<fstream>
+
+1351298184 source:c:\home\work_station\projects\cubeproject\src\rubikscube.cpp
+	"RubiksCube.h"
+	<vector>
+
+1351295585 c:\home\work_station\projects\cubeproject\include\rubikscube.h
+	<vector>
+	<string>
+
+1351298774 source:c:\home\work_station\projects\cubeproject\main.cpp
+	<iostream>
+	"RubiksCube.h"
+	"HeuristicCreator.h"
+
